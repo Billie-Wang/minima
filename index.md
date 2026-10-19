@@ -7,3 +7,5 @@
 #
 layout: home
 ---
+# 欢迎来到我的Jekyll博客
+这是我修改后的主页文本，通过GitHub Pages自动部署。
