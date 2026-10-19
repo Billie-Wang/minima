@@ -1,0 +1,12 @@
+---
+layout: page
+title: About
+permalink: /about/
+---
+
+# About
+这是我的个人介绍页面，基于 Jekyll + Minima 主题搭建。
+
+## 简介
+本次新增About页面，用来介绍网站信息。
+本次提交为作业练习，练习Git分支、Pull Request协作流程。
